@@ -1,0 +1,8 @@
+prefix=/home/andri/ROSTopic/devel
+
+Name: ROSTopic
+Description: Description of ROSTopic
+Version: 0.0.0
+Cflags: -I/home/andri/ROSTopic/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
